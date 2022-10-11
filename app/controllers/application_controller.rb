@@ -1,2 +1,2 @@
-class ApplicationController < ActionController::API # rubocop:todo Layout/EndOfLine
+class ApplicationController < ActionController::API
 end
