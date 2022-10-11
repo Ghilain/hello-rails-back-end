@@ -25,15 +25,15 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Ghilain Ishimwe**
 
-- GitHub: https://github.com/Ghilain
-- Twitter: https://twitter.com/
-- LinkedIn: https://br.linkedin.com/in/ghilainishimwe/
+- GitHub: [Ghilain](https://github.com/Ghilain)
+- Twitter: [ghilainishimwe](https://twitter.com/)
+- LinkedIn: [ghilain-ishimwe](https://br.linkedin.com/in/ghilainishimwe/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Ghilain/hello-rails-back-end/issues).
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
