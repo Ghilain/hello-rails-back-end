@@ -1,24 +1,52 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello rails back end
 
-Things you may want to cover:
+The Hello rails back end project is about building a ruby and rails and api to make connection between with front-end application.
 
-* Ruby version
+## Built With
+- Ruby on Rails
+- PostgreSQL
+- API
 
-* System dependencies
+## Link to the Front-End App
+You can visit the front-end application which connect with API via this [Link](https://github.com/Ghilain/hello-react-front-end).
 
-* Configuration
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
-* Database creation
+- Copy this link `https://github.com/Ghilain/hello-rails-back-end.git`
+- Get the directory that you want to clone the repository.
+- Open the command prompt in this directory.
+- Write `https://github.com/Ghilain/hello-rails-back-end.git`.
+- Go to the repository folder in your command prompt `cd hello-rails-back-end`.
 
-* Database initialization
+- Follow these steps to run the app:
+  - run `gem install`, then run `./bin/dev`
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Ghilain Ishimwe**
 
-* Deployment instructions
+- GitHub: [Ghilain](https://github.com/Ghilain)
+- Twitter: [ghilainishimwe](https://twitter.com/)
+- LinkedIn: [ghilain-ishimwe](https://br.linkedin.com/in/ghilainishimwe/)
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
+
