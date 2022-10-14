@@ -10,7 +10,7 @@ The Hello rails back end project is about building a ruby and rails and api to m
 - API
 
 ## Link to the Front-End App
-You can visit the front-end application which connect with API via this [Link](https://github.com/Ghilain/hello-rails-back-end).
+You can visit the front-end application which connect with API via this [Link](https://github.com/Ghilain/hello-react-front-end).
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
