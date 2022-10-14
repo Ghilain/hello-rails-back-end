@@ -9,6 +9,9 @@ The Hello rails back end project is about building a ruby and rails and api to m
 - PostgreSQL
 - API
 
+## Link to the Front-End App
+You can visit the front-end application which connect with API via this [Link](https://github.com/Ghilain/hello-rails-back-end).
+
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
